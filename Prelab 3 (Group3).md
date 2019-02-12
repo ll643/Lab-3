@@ -8,7 +8,7 @@ $$ANC_{cayuga}=1.6meq/L$$
 $$ANC_{wolf}=70\mu{eq}/L$$
 $$pH_rain=3.5$$
 
-```Python
+```python
 import math
 from aguaclara.core.units import unit_registry as u
 u.define('equivalent = mole = eq')
@@ -36,7 +36,7 @@ $$pOH=14-pH=14-3.2=10.8$$
 $$[OH^{-1}]=10^{-pH}=10^{-10.8}$$
 $$\Rightarrow-[H^+]=-10^{-14}/10^{-10.8}=-6.31*10^{-4}=ANC_{in}$$
 
-```
+```python
 pH = 3.2 # pH of the strong acid
 ANC = -10**(-1*pH)*(u.eq/u.L)
 
