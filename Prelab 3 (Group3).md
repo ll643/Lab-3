@@ -7,6 +7,7 @@ Prelab 3
 $$ANC_{cayuga}=1.6meq/L$$
 $$ANC_{wolf}=70\mu{eq}/L$$
 $$pH_rain=3.5$$
+After Mixing, the lakes are 20% acid and 80% lake.
 
 ```python
 import math
@@ -43,4 +44,4 @@ ANC = -10**(-1*pH)*(u.eq/u.L)
 ```
 
 #Question 3
-[H+] is not a conservative species because it reacts with other species which affects its concentration.
+[H+] is not a conservative species because it reacts with other species which will affect its concentration.
