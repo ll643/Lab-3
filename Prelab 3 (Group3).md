@@ -5,7 +5,8 @@ Prelab 3
 #Question 1
 $$ANC_{cayuga}=1.6meq/L$$
 $$ANC_{wolf}=70\mu{eq}/L$$
-```
+
+```Python
 from aguaclara.core.units import unit_registry as u
 u.define('equivalent = mole = eq')
 import aguaclara.research.environmental_processes_analysis as epa
@@ -15,7 +16,7 @@ def ANC_zeroed(pHguess, ANC):
 def pH_open(ANC):
   return optimize.brentq(ANC_zeroed, 0, 14,args=(ANC))
 pH_Cayuga=pH_open(1.6*u.meq/u.L)
-pH_Wolf=pH_open(70*u.mueq/u.L)
+pH_Wolf=pH_open(70*u.meq/u.L)
 
 ```
 #Question 2
