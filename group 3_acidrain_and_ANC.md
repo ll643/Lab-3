@@ -1,8 +1,8 @@
-Lynn Li (ll643): hours spent = 9
-Allison Tran (ant42): hours spent = 9
-Group 3
-Lab 3 (Acid Rain and Acid Neutralizing Capacity+)
-Due 03/01/2019
+# Lab 3 (Acid Rain and Acid Neutralizing Capacity+)
+##### Lynn Li (ll643): hours spent = 9
+##### Allison Tran (ant42): hours spent = 9
+#####  Group 3
+##### Due 03/01/2019
 
 # Introduction and Objectives
 The overall goal of these two lab experiments was to model the acidification and remediation of a lake. In order to accomplish this, we created a simulation in which a "lake" received acid input meant to represent acid rain, and then collected and tested the pH of several samples from this simulation in order to find the acid neutralizing capacity (ANC). Acid rain is a real-world issue that affects water supplies for both humans and the environment; this issue is becoming more pertinent as humans are increasing their fossil fuel consumption since "acid precipitation results from the combustion of fossil fuels which produce oxides of sulfur and nitrogen that react in the earth’s atmosphere to form sulfuric and nitric acid emissions" (Lab Manual). We hoped that by simulating this phenomenon on a smaller scale we would be able to study the physical and chemical effects of acidification and come up with a remedying solution that could be applied to the bigger problem. In order for this lab to succeed, we had to acidify our lake model in increments over specified time intervals, measure the pH of our lake samples, and use Gran plot analysis to create titration curves through which we would be able to determine the ANC values. Additionally, this lab provided us with an opportunity to practice specific lab techniques such as pipetting precisely, setting up various tubing systems, and calibrating and using a pH probe.
