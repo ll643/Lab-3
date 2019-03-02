@@ -1,4 +1,4 @@
-# Lab 3 (Acid Rain and Acid Neutralizing Capacity+)
+# Acid Rain and Acid Neutralizing Capacity+
 ##### Lynn Li (ll643): hours spent = 9
 ##### Allison Tran (ant42): hours spent = 9
 #####  Group 3
