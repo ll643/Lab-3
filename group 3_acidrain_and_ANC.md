@@ -44,31 +44,31 @@ In the second part of the lab, we used ProCoDa to determine the ANC of the sampl
 ### Graphs
 ![Figure 1](https://github.com/ll643/Lab-3/blob/master/group3_lab3_figure1.png)
 
-Figure 1:Plot of pH vs Hydraulic Residence Time as acid rain is being added to a lake
+Figure 1: Plot of pH vs Hydraulic Residence Time as acid rain is being added to a lake
 
 ![Figure 2](https://github.com/ll643/Lab-3/blob/master/group3_lab3_figure2.png)
 
-Figure 2:Plot of ANC (conservative, closed, and open) vs Hydraulic Residence Time as acid rain is being added to a lake
+Figure 2: Plot of ANC (conservative, closed, and open) vs Hydraulic Residence Time as acid rain is being added to a lake
 
 ![Figure 3](https://github.com/ll643/Lab-3/blob/master/group3_lab3_figure3.png)
 
-Figure 3:Plot of pH vs Hydraulic Residence Time as acid rain is being added to a lake with twice the initial ANC amount
+Figure 3: Plot of pH vs Hydraulic Residence Time as acid rain is being added to a lake with twice the initial ANC amount
 
 ![Figure 4](https://github.com/ll643/Lab-3/blob/master/group3_lab3_figure3.png)
 
-Figure 4:Plot of ANC (conservative, closed, and open) vs Hydraulic Residence Time as acid rain is being added to a lake with twice the initial ANC amount
+Figure 4: Plot of ANC (conservative, closed, and open) vs Hydraulic Residence Time as acid rain is being added to a lake with twice the initial ANC amount
 
 ![Figure 5](https://github.com/ll643/Lab-3/blob/master/group3_lab3_figure5.png)
 
-Figure 5:Plot of pH vs Titrant Volume as increments of HCl are being added to a lake
+Figure 5: Plot of pH vs Titrant Volume as increments of HCl are being added to a lake
 
 ![Figure 6](https://github.com/ll643/Lab-3/blob/master/group3_lab3_figure6.png)
 
-Figure 6:Gran Plot of Gran Function vs Titrant Volume as HCL is being added to the sample of lake water from t=0
+Figure 6: Gran Plot of Gran Function vs Titrant Volume as HCL is being added to the sample of lake water from t=0
 
 ![Figure 7](https://github.com/ll643/Lab-3/blob/master/group3_lab3_figure7.png)
 
-Figure 7:Plot of ANC vs Hydraulic Residence Time of all the ANCs calculated from the five titrations along with the ANC curves from Figure 2
+Figure 7: Plot of ANC vs Hydraulic Residence Time of all the ANCs calculated from the five titrations along with the ANC curves from Figure 2
 
 ### Acid rain
 Through our initial acid rain experiment, we were able to generate Figure 1 and 2 which shows that pH decreases exponentially with hydraulic residence time as acid rain is being added to it. Similarly ANC also decreases exponentially with hydraulic residence time except open ANC which decreases past a hydraulic residence time of 1.25 but before then is at a constant pH. We were also able to show that by doubling the initial ANC of the lake (from 0.623g of NaCO3 to 1.246g of NaCO3), the lake is better at buffering the acid rain. Based off of the figures produced (Figure 3 and Figure 4), we can see that the final pH of the lake after 20 mins with the extra ANC (pH around 6) is much higher than the final pH of the lake after 20 mins with the normal dosage of ANC (pH around 4). Nonetheless, pH and ANC still decreases with hydraulic residence time no matter the starting ANC amount.
